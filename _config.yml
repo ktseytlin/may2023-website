@@ -1,17 +1,17 @@
 # site settings
-title: Keren Test
-subtitle: by HTML5 UP
+title: Our Wedding
+subtitle:
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: We are so excited for you to join us at our wedding celebration!
 baseurl: /may2023-website/
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address:
+city:
+state:
+zip_code:
+country:
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
