@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Keren and Michael Wedding - May 21, 2023'
 description: null
 image: null
 author: null
